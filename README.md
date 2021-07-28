@@ -3,6 +3,7 @@
 - ## Purpose:
 
   To pull a meteorological data from a meteorological dataset, and have it displayed for public view. Due to inability to obtain the latest dataset, we obtained a dataset of a month in 2017, and acted as if it is the latest data.
+  It's a coding project.
 
 - ## What contains in the app:
 
