@@ -12,8 +12,8 @@
   - 'Holiday Planner'
 
 - ## Reference:
-  https://en.wikipedia.org/wiki/Okta#:~:text=In%20meteorology%2C%20an%20okta%20is,8%20oktas%20(completely%20overcast).
-  https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe
-  https://stackoverflow.com/questions/30576323/pandas-convert-index-values-to-lowercase
-  https://www.w3schools.com/python/gloss_python_while_else.asp
-  https://www.geeksforgeeks.org/string-capitalize-python/
+  - https://en.wikipedia.org/wiki/Okta#:~:text=In%20meteorology%2C%20an%20okta%20is,8%20oktas%20(completely%20overcast).
+  - https://stackoverflow.com/questions/11707586/how-do-i-expand-the-output-display-to-see-more-columns-of-a-pandas-dataframe
+  - https://stackoverflow.com/questions/30576323/pandas-convert-index-values-to-lowercase
+  - https://www.w3schools.com/python/gloss_python_while_else.asp
+  - https://www.geeksforgeeks.org/string-capitalize-python/
